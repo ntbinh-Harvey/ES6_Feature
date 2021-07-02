@@ -1,5 +1,5 @@
 /*
-Có thể đặt giá trị cho các biến theo thứ tự trong 1 object hay 1 array chỉ bằng 1 câu lệnh
+Có thể đặt giá trị cho các biến theo thứ tự trong 1 object hay 1 array chỉ bằng 1 câu lệnh, cái này thường sử dụng trong import export, hoặc mấY cái hooks trong react
 */
 var randomThings = ["Cat", 12, "Binh"];
 var [a, b, c] = randomThings;

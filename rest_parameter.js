@@ -1,5 +1,5 @@
 /* 
-có thể hiểu là tham số còn lại
+đại diện cho các tham số còn lại, thường được đặt ở sau cùng
 */
 var dongVat = (ten1, ten2, ...other) => {
     console.log(ten1)
